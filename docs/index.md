@@ -19,9 +19,7 @@ Open source is an incredble opportunity to collaborate, learn new skills, and ma
 * **Gain Experieeeence**: Contributing is great for your resume!  
 * **Build Communittty**: Becomes part of a ginormousssly welcoming open source ecosystem.  
 
-sdf
-
-## Ways you can conttttribute  
+## Ways you can contribute  
 
 No matter your skill leevl, you can help! Here are some ways to get involvd:  
 * *Review Python Packages*: Help us review new submissions to pyOpenSci.  
