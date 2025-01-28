@@ -11,7 +11,7 @@ def add_num(num_1, num_2):
     Parameters
     ----------
     num_1 : int
-        The second numbersss that the functionsz will add.
+        The second numbers that the functions will add.
     num_2 : int
         The second number that the functioon will add.
     Return
