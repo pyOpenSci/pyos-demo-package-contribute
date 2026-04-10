@@ -13,21 +13,21 @@ Contributing to open source is the best way to **learn, grow**, and give back to
 
 ## Why Contribute?
 
-Open source is an incredble opportunity to collaborate, learn new skills, and make a diffrence in the Python ecosystem. Whether you’re new to coding or a seasoned developer, there’s a place for you!
+Open source is an incredible opportunity to collaborate, learn new skills, and make a diffrence in the Python ecosystem. Whether you’re new to coding or a seasoned developer, there’s a place for you!
 
-* **Learn by Dooing**: Improve your coding skills with real-world projects.  
-* **Gain Experieeeence**: Contributing is great for your resume!  
-* **Build Communittty**: Becomes part of a ginormousssly welcoming open source ecosystem.  
+* **Learn by Doing**: Improve your coding skills with real-world projects.  
+* **Gain Experience**: Contributing is great for your resume!  
+* **Build Community**: Becomes part of a ginormously welcoming open source ecosystem.  
 
 sdf
 
-## Ways you can conttttribute  
+## Ways you can contribute  
 
-No matter your skill leevl, you can help! Here are some ways to get involvd:  
+No matter your skill level, you can help! Here are some ways to get involvd:  
 * *Review Python Packages*: Help us review new submissions to pyOpenSci.  
 * **Documentaion**: Fix typos, clarify instructions, or improve existing docs.  
 * **Write Code**: Submit pull requests to enhance functionality.  
-* **Test**: Help us tedddddst and report bugs in our projects sdf.  
+* **Test**: Help us test and report bugs in our projects sdf.  
 
 ---
 
@@ -47,7 +47,7 @@ This is a judgment-free space to make mistakes, experiment, and **learn by doing
 
 1. **Fork the Repository**: Click the "Fork" button at the top of this page to copy it to your GitHub account.  
 2. **Clone the Repo**: Use `git clone` to copy the forked repo to your local machine.  
-3. **Find Something to Fix**: Look for typos (like this secton), improve docss, or add small features.  
+3. **Find Something to Fix**: Look for typos (like this section), improve docs, or add small features.  
 4. **Submit a Pull Request**: Propose your changes and ask for feedback!  
 
 
@@ -85,7 +85,7 @@ No matter your skill leevl, you can help! Here are some ways to get involvd:
 
 ## Ways you can conttttribute
 
-No matter your skill leevl, you can help! Here are some ways to get involvd:
+No matter your skill level, you can help! Here are some ways to get involvd:
 * *Review Python Packages: Help us review new submissions to pyOpenSci.
 ** Documentaion: Fix typos, clarify instructions, or improve existing docs.
 * Write Code: Submit pull requests to enhance functionality.
