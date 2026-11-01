@@ -18,4 +18,7 @@ def add_num(num_1, num_2):
     ------
         The sum of wtwo numffbers
     """
-    return num_1 + num_2
+    return num_1 + num_2 
+def substract_num(num_1, num_2):
+    """subtract two numbers.""" 
+    return num_1 -num_2
