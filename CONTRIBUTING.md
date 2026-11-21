@@ -15,8 +15,7 @@ You can contribute in many ways, for example:
 
 ### Report Bugs
 
-Report bugs at https://github.com//mypackage/issues.
-
+Report bugs at https://github.com/pyOpenSci/pyos-demo-package-contribute/issues.
 **If you are reporting a bug, please follow the template guidelines. The more
 detailed your report, the easier and thus faster we can help you.**
 
@@ -39,16 +38,11 @@ happy for any support that they can get.
 
 ### Write Documentation
 
-mypackage could always use more documentation, whether as
-part of the official documentation, in docstrings, or even on the web in blog
-posts, articles, and such. Just [open an issue](https://github.com//
-mypackage/issues) to let us know what you will be working on
-so that we can provide you with guidance.
+mypackage could always use more documentation, whether as part of the official documentation, in docstrings, or even on the web in blog posts, articles, and such. Just [open an issue](https://github.com/pyOpenSci/pyos-demo-package-contribute/issues) to let us know what you will be working on so that we can provide you with guidance.
 
 ### Submit Feedback
 
-The best way to send feedback is to file an issue at https://github.com/
-/mypackage/issues. If your feedback fits the format of one of
+The best way to send feedback is to file an issue at https://github.com/pyOpenSci/pyos-demo-package-contribute/issues. If your feedback fits the format of one of
 the issue templates, please use that. Remember that this is a volunteer-driven
 project and everybody has limited time.
 
@@ -57,13 +51,12 @@ project and everybody has limited time.
 Ready to contribute? Here's how to set up mypackage for
 local development.
 
-1. Fork the https://github.com//mypackage
-   repository on GitHub.
+1. 1. Fork the [pyos-demo-package-contribute](https://github.com/pyOpenSci/pyos-demo-package-contribute) repository on GitHub.
 2. Clone your fork locally
 
     ```shell
-    git clone git@github.com:your_name_here/mypackage.git
-    ```
+git clone https://github.com/YOUR-USERNAME/pyos-demo-package-contribute.git   
+```
 
 3. [Install hatch](https://hatch.pypa.io/latest/install/).
 
